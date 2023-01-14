@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7961f56e6cd319742a30add6241aca08
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Metal Vengeance
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 753876341d6f46f4cbb9281612c4b1e6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

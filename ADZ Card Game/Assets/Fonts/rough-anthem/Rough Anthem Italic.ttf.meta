@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 49a7fbe9fe696be41b361dd63b97297d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rough Anthem
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 589350b7eb8800142b8812d4e1676f8a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
